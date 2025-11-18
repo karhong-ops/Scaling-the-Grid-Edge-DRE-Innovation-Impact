@@ -1,1 +1,1 @@
-# Scaling-the-Grid-Edge-DRE-Innovation-Impact
+# Scaling-the-Grid-Edge-DRE-Innovation
